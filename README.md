@@ -5,7 +5,7 @@
 ---
 
 ### About me
-* **Education:** Bachelor of Computer Applications (BCA) in TAU,  Computing equipment and Software.
+* **Education:** Bachelor of Computer Applications (BCA) in TAU,  Computer Engineering and Software.
 * **Location:** Astana, Kazakhstan.
 * **Specialization:** Design, refactoring, and optimization of asynchronous C#/.NET backend services, multi-threaded desktop utilities, and fullstack automation pipelines.
 
